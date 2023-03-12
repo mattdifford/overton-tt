@@ -3,6 +3,13 @@
 This PHP script is to scrape the contents of given URLs on the gov.uk website, and search for specific documents on
 those pages
 
+### Setup
+
+- Configuration for sites, URLs and timings is controlled in config.json
+- Output is displayed in the command line, and also output to output.json
+- Script is run using `php ScrapeData.php` 
+
+
 ### Features
 
 - I have used a config.json file to allow for easier expansion/control in the future, such as multiple base sites, more
