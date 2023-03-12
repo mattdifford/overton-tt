@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/overton-tt",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Matthew.Difford",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.0",
+    "ext-dom": "20031129"
+  }
+}

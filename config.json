@@ -1,0 +1,15 @@
+{
+  "domains": [
+    {
+      "base": "https://www.gov.uk",
+      "connect_timeout": 5,
+      "delay": 1,
+      "timeout": 2.00,
+      "urls": [
+        "https://www.gov.uk/search/policy-papers-and-consultations?content_store_document_type%5B%5D=policy_papers&order=updated-newest",
+        "https://www.gov.uk/search/policy-papers-and-consultations?content_store_document_type%5B%5D=policy_papers&order=updated-newest&page=2",
+        "https://www.gov.uk/search/policy-papers-and-consultations?content_store_document_type%5B%5D=policy_papers&order=updated-newest&page=3"
+      ]
+    }
+  ]
+}
